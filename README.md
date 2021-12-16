@@ -30,7 +30,6 @@ fun(x)
 
 */
 ```
-
 ## Output:
 ![output](./scr1.png)
 
